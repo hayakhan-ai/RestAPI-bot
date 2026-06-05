@@ -1,0 +1,234 @@
+{
+    "greeting": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "good evening",
+        "greetings",
+        "heya",
+        "hiya"
+    ],
+
+    "fever": [
+        "fever",
+        "temperature",
+        "hot",
+        "high temperature",
+        "burning body",
+        "body heat",
+        "chills",
+        "feverish"
+    ],
+
+    "headache": [
+        "headache",
+        "migraine",
+        "pain",
+        "head pain",
+        "pressure in head",
+        "brain pain",
+        "head hurting"
+    ],
+
+    "cold": [
+        "cold",
+        "runny nose",
+        "sneezing",
+        "blocked nose",
+        "nasal congestion",
+        "common cold"
+    ],
+
+    "cough": [
+        "cough",
+        "dry cough",
+        "wet cough",
+        "throat irritation",
+        "coughing"
+    ],
+
+    "flu": [
+        "flu",
+        "influenza",
+        "viral fever",
+        "body aches"
+    ],
+
+    "stomach_pain": [
+        "stomach pain",
+        "abdominal pain",
+        "belly pain",
+        "stomach ache",
+        "gastric pain"
+    ],
+
+    "diarrhea": [
+        "diarrhea",
+        "loose motion",
+        "loose stool",
+        "watery stool"
+    ],
+
+    "constipation": [
+        "constipation",
+        "hard stool",
+        "unable to poop",
+        "bowel issue"
+    ],
+
+    "allergy": [
+        "allergy",
+        "itching",
+        "rash",
+        "sneezing allergy",
+        "allergic reaction"
+    ],
+
+    "stress": [
+        "stress",
+        "tension",
+        "mental pressure",
+        "overthinking",
+        "anxiety"
+    ],
+
+    "sleep": [
+        "sleep",
+        "insomnia",
+        "cannot sleep",
+        "sleep problem",
+        "sleeping issue"
+    ],
+
+    "dehydration": [
+        "dehydration",
+        "dry mouth",
+        "lack of water",
+        "thirsty"
+    ],
+
+    "back_pain": [
+        "back pain",
+        "spine pain",
+        "lower back pain",
+        "backache"
+    ],
+
+    "asthma": [
+        "asthma",
+        "wheezing",
+        "breathing issue",
+        "shortness of breath"
+    ],
+
+    "skin_rash": [
+        "skin rash",
+        "red skin",
+        "itchy skin",
+        "skin irritation"
+    ],
+
+    "vomiting": [
+        "vomiting",
+        "throwing up",
+        "nausea",
+        "vomit"
+    ],
+
+    "fatigue": [
+        "fatigue",
+        "tired",
+        "weakness",
+        "low energy",
+        "exhausted"
+    ],
+
+    "tooth_pain": [
+        "tooth pain",
+        "toothache",
+        "gum pain",
+        "dental pain"
+    ],
+
+    "eye_irritation": [
+        "eye irritation",
+        "itchy eyes",
+        "red eyes",
+        "eye pain"
+    ],
+
+    "blood_pressure": [
+        "blood pressure",
+        "high bp",
+        "hypertension",
+        "bp issue"
+    ],
+
+    "burn": [
+        "burn",
+        "skin burn",
+        "burn injury",
+        "hot water burn"
+    ],
+
+    "nose_bleeding": [
+        "nose bleeding",
+        "bloody nose",
+        "nose bleed"
+    ],
+
+    "ear_pain": [
+        "ear pain",
+        "earache",
+        "ear infection"
+    ],
+
+    "muscle_cramp": [
+        "muscle cramp",
+        "leg cramp",
+        "muscle pain",
+        "cramps"
+    ],
+
+    "food_poisoning": [
+        "food poisoning",
+        "bad food",
+        "stomach infection",
+        "food infection"
+    ],
+
+    "immunity": [
+        "immunity",
+        "immune system",
+        "body defense",
+        "increase immunity"
+    ],
+
+    "sinus": [
+        "sinus",
+        "sinus congestion",
+        "blocked sinus",
+        "nasal pressure"
+    ],
+
+    "joint_pain": [
+        "joint pain",
+        "knee pain",
+        "arthritis",
+        "joint ache"
+    ],
+
+    "dry_skin": [
+        "dry skin",
+        "rough skin",
+        "skin dryness"
+    ],
+
+    "cuts": [
+        "cut",
+        "minor injury",
+        "wound",
+        "bleeding cut"
+    ]
+}

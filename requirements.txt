@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+rapidfuzz
+pydantic
+python-dotenv
+httpx
+pydantic-settings>=2.0.0
